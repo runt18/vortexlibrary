@@ -1,0 +1,10 @@
+# Introduction #
+
+PyVortex is a full python binding for Vortex Library which allows to build   full featured BEEP servers using Python language.
+
+
+# Details #
+
+See documentation and examples at:
+
+http://www.aspl.es/vortex/py-vortex/html/
